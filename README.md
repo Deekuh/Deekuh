@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Github Statistics
+<p align="left">
+<a href="https://github.com/Deekuh">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Deekuh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deekuh&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **Deekuh/Deekuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
